@@ -1,22 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    17:25:48 11/14/2022 
-// Design Name: 
-// Module Name:    halfadder 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
+// Author:Prananya M
+// Create Date:   19:55:28 11/13/2022
+// Design Name: halfadde
+// Module Name:   D:/verilog/halfadde/halfaddertb.v
+// Project Name:  fulladder  
+// Tool versions: ISE Design Suite 14.7 
+// Verilog Test Fixture created by ISE for module: fulladder
 // Revision 0.01 - File Created
-// Additional Comments: 
-//
 //////////////////////////////////////////////////////////////////////////////////
 module halfadder(a, b, sum, carry);
 input a,b;
