@@ -1,24 +1,15 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
+
+// Author:Prananya M
 // Create Date:   19:55:28 11/13/2022
 // Design Name:   fulladder
 // Module Name:   D:/verilog/fulladder/fulladdertb.v
-// Project Name:  fulladder
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
+// Project Name:  fulladder  
+// Tool versions: ISE Design Suite 14.7 
 // Verilog Test Fixture created by ISE for module: fulladder
-//
-// Dependencies:
-// 
-// Revision:
 // Revision 0.01 - File Created
-// Additional Comments:
 // 
 ////////////////////////////////////////////////////////////////////////////////
 
