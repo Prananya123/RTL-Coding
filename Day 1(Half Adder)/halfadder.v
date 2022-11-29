@@ -6,7 +6,7 @@
 // Module Name:   D:/verilog/halfadde/halfaddertb.v
 // Project Name:  fulladder  
 // Tool versions: ISE Design Suite 14.7 
-// Verilog Test Fixture created by ISE for module: fulladder
+// Verilog Test Fixture created by ISE for module: halfadde
 // Revision 0.01 - File Created
 //////////////////////////////////////////////////////////////////////////////////
 module halfadder(a, b, sum, carry);
