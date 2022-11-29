@@ -1,25 +1,14 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
+// Author: Prananya M
 // Create Date:   19:46:01 11/29/2022
 // Design Name:   decoder_38
 // Module Name:   D:/verilog/decoder_38/decoder_38tb.v
-// Project Name:  decoder_38
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
+// Project Name:  decoder_38  
+// Tool versions:  ISE Design Suite 14.7
 // Verilog Test Fixture created by ISE for module: decoder_38
-//
-// Dependencies:
-// 
-// Revision:
 // Revision 0.01 - File Created
-// Additional Comments:
-// 
 ////////////////////////////////////////////////////////////////////////////////
 module decoder_tb;
 wire [7:0] out;
