@@ -1,19 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    19:44:16 11/29/2022 
-// Design Name: 
-// Module Name:    decoder_38 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
+////////////////////////////////////////////////////////////////////////////////
+// Author: Prananya M
+// Create Date:   17:27:29 11/14/2022
+// Design Name:   decoder_38
+// Module Name:   D:/verilog/decoder_38/decoder_38tb.v
+// Project Name:  decoder_38 
+// Tool versions: ISE Design Suite 14.7 
 // Revision 0.01 - File Created
 // Additional Comments: 
 //
