@@ -3,10 +3,10 @@
 // Author:Prananya M
 // Create Date:   19:55:28 11/13/2022
 // Design Name: halfadde
-// Module Name:   D:/verilog/halfadde/halfaddertb.v
+// Module Name:   D:/verilog/halfadder/halfaddertb.v
 // Project Name:  fulladder  
 // Tool versions: ISE Design Suite 14.7 
-// Verilog Test Fixture created by ISE for module: halfadde
+// Verilog Test Fixture created by ISE for module: halfadder
 // Revision 0.01 - File Created
 //////////////////////////////////////////////////////////////////////////////////
 module halfadder(a, b, sum, carry);
