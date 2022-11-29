@@ -1,25 +1,14 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
+// Author: Prananya M
 // Create Date:   17:27:29 11/14/2022
-// Design Name:   halfadder
+// Design Name:   halfaddertb
 // Module Name:   D:/verilog/halfadder/halfaddertb.v
-// Project Name:  halfadder
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
+// Project Name:  halfadder 
+// Tool versions: ISE Design Suite 14.7 
 // Verilog Test Fixture created by ISE for module: halfadder
-//
-// Dependencies:
-// 
-// Revision:
 // Revision 0.01 - File Created
-// Additional Comments:
-// 
 ////////////////////////////////////////////////////////////////////////////////
 
 module halfaddertb;
